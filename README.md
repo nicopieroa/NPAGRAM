@@ -19,6 +19,7 @@ This app was built with:
 - HTML
 - CSS
 - Java Scrip
+- Unplash API
 
 ## Set up the app
 
