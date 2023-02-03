@@ -25,7 +25,7 @@ This app was built with:
 
 Instruction for setting up the project on your computer.
 
-To get a local copy and run the app, you need to open a terminal in your code editor, and insert the next line `git clone 'repository link'`.
+To get a local copy and run the app, you need to open a terminal in your code editor, and insert the next line `git clone 'https://github.com/nicopieroa/NPAGRAM'`.
 
 Then, to open the app in your browser, if you have the live server extension in your code editor, you can right-click on the `index.html` file and click on ' open with live server ', if not, in the folder where you have the project files, double click on `index.html`.
 
