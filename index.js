@@ -1,5 +1,9 @@
 const url = "https://api.unsplash.com/";
-import { API_KEY } from "./apiKey.js";
+
+// I did not find a way to hide the API KEY, I know this must not be public,
+// but a made the choice to upload the project anyway so I Can show it on my
+// GitHub profile.
+const API_KEY = "ykeV0aQM-nuQJORLl14f3BquHnIE6paWwU9y5TDtsmY";
 
 const contentContainer = document.getElementById("contentContainer");
 const home = document.getElementById("home");
