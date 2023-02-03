@@ -1,10 +1,14 @@
 # NPAGRAM
 
-(thumbnail preview)
+![NPAGRAM Preview](/Preview%20Thumbnail.png)
 
-NPAGRAM is a web app where you can find photos from creators around the world. You can see photos related to, animals, technology, sports, cars, food, art, etc.
+NPAGRAM is a web app where you can find photos from creators around the world. Images related to, animals, technology, sports, cars, food, art, etc.
 
-You can interact with the photos, giving a like, marking them as your favorite, and could save them too.
+You can search any category and have 30 photos related to your search.
+
+Also, you can interact with the photos, giving a like, marking them as your favorite, and could save them too.
+
+### You can access the app through the next link:
 
 ---
 
@@ -16,21 +20,13 @@ This app was built with:
 - CSS
 - Java Scrip
 
-## Getting Starter
+## Set up the app
 
 Instruction for setting up the project on your computer.
 
-To get a local copy and running the app, please follow the next steps:
+To get a local copy and run the app, you need to open a terminal in your code editor, and insert the next line `git clone 'repository link'`.
 
-### Prerequisites
-
-First of all you need to have an editor code program.
-
-### Installation
-
-For this prooject i use the Unplash API
-
-### OPEN THE APP
+Then, to open the app in your browser, if you have the live server extension in your code editor, you can right-click on the `index.html` file and click on ' open with live server ', if not, in the folder where you have the project files, double click on `index.html`.
 
 ---
 
