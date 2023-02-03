@@ -8,8 +8,6 @@ You can search any category and have 30 photos related to your search.
 
 Also, you can interact with the photos, giving a like, marking them as your favorite, and could save them too.
 
-### You can access the app through the next link:
-
 ---
 
 ## Built With
